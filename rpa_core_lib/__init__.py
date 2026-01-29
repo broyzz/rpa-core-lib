@@ -5,6 +5,7 @@ __author__ = 'Bruno Oliveira Marques'
 
 from .browser import open_chrome, BrowserManager
 from .logger import RPALogger, LoggerFactory, get_rpa_logger
+from .data import DataHandler
 
 __all__ = [
     'open_chrome',
@@ -12,4 +13,5 @@ __all__ = [
     'RPALogger',
     'LoggerFactory',
     'get_rpa_logger',
+    'DataHandler',
 ]
