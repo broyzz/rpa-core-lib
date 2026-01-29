@@ -7,13 +7,13 @@ Biblioteca Python para automação web com Selenium.
 ### Via pip (a partir do repositório)
 
 ```bash
-pip install git+https://github.com/seu-usuario/rpa-core-lib.git
+pip install git+https://github.com/broyzz/rpa-core-lib.git
 ```
 
 ### Localmente (desenvolvimento)
 
 ```bash
-git clone https://github.com/seu-usuario/rpa-core-lib.git
+git clone https://github.com/broyzz/rpa-core-lib.git
 cd rpa-core-lib
 pip install -e .
 ```
@@ -47,7 +47,7 @@ driver.quit()
 
 ```bash
 # Clonar repositório
-git clone https://github.com/seu-usuario/rpa-core-lib.git
+git clone https://github.com/broyzz/rpa-core-lib.git
 cd rpa-core-lib
 
 # Instalar em modo desenvolvimento
